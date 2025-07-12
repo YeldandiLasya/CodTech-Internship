@@ -23,13 +23,41 @@ The goal of this task is to apply Big Data analytics techniques using PySpark on
 - 📊 Matplotlib & Seaborn (for visualizations)
 - 🧠 Pandas (for plotting with Spark-converted DataFrames)
 
-## 📈 Key Features / Analysis
+## 📊 Data Analysis Performed
 
-The project performs the following analyses using PySpark:
+1.Data Cleaning
+- Dropped rows with nulls in essential fields (Amount, Ratings, Country, etc.)
+- Converted column types (e.g., casting Amount and Ratings as numeric)
+Analytical Insights
+Total revenue by country
+Most purchased product categories
+Average spending by customer segment and gender
 
-1. **Total Revenue by Country**  
-2. **Top-Selling Product Categories**
-3. **Average Spend by Customer Segment**
-4. **Monthly Sales Trend**
-5. **Gender-based Spending Analysis**
-6. **Ratings Distribution**
+Monthly sales trend
+
+Distribution of customer ratings
+
+Relationship between feedback types and order status
+
+Visualizations
+
+Bar plots for revenue and categories
+
+Line charts for monthly trends
+
+Rating distribution plots
+
+Gender and segment-based comparison charts
+
+⭐ Key Highlights
+Processed and visualized 400,000+ retail transactions
+
+Identified high-revenue countries and top-selling categories
+
+Uncovered premium customers have the highest average spend
+
+Found sales peaks in festive months (e.g., November, December)
+
+Clear rating bias toward 4 and 5 stars
+
+Real-time feedback and order statuses show business performance
