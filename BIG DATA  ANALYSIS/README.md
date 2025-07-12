@@ -1,6 +1,16 @@
 
 # Big Data Analysis using PySpark | TASK-1
-This task focuses on performing Big Data Analysis using PySpark on a real-world, large-scale dataset of mobile product reviews. The primary objective is to showcase the power and scalability of distributed data processing for extracting insights from messy, high-volume retail data.
+
+🎯 Objective
+The goal of this task is to apply Big Data analytics techniques using PySpark on a real-world retail dataset consisting of over 400,000 transaction records, in order to:
+
+Clean and process customer transaction data
+
+Analyze product categories, customer segments, and sales performance
+
+Understand customer ratings, purchase behavior, and feedback patterns
+
+Demonstrate scalability and efficiency using PySpark for large datasets
 
 ## 📁 Dataset
 
